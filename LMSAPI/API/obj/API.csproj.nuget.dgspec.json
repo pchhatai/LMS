@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pabit\\Desktop\\2312LibraryMS-main\\API\\API\\API.csproj": {}
+    "C:\\Users\\pabit\\Desktop\\2312LibraryMS-main\\LMSAPI\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pabit\\Desktop\\2312LibraryMS-main\\API\\API\\API.csproj": {
+    "C:\\Users\\pabit\\Desktop\\2312LibraryMS-main\\LMSAPI\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pabit\\Desktop\\2312LibraryMS-main\\API\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\pabit\\Desktop\\2312LibraryMS-main\\LMSAPI\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\pabit\\Desktop\\2312LibraryMS-main\\API\\API\\API.csproj",
+        "projectPath": "C:\\Users\\pabit\\Desktop\\2312LibraryMS-main\\LMSAPI\\API\\API.csproj",
         "packagesPath": "C:\\Users\\pabit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pabit\\Desktop\\2312LibraryMS-main\\API\\API\\obj\\",
+        "outputPath": "C:\\Users\\pabit\\Desktop\\2312LibraryMS-main\\LMSAPI\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pabit\\AppData\\Roaming\\NuGet\\NuGet.Config",

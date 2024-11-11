@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rWHmLXMb1WY=",
+  "dgSpecHash": "YV0MYZqiMmw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\pabit\\Desktop\\2312LibraryMS-main\\API\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\pabit\\Desktop\\2312LibraryMS-main\\LMSAPI\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pabit\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\pabit\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
